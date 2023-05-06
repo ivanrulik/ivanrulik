@@ -6,7 +6,7 @@
 
 | | |
 | --- | --- |
-| <img src="assets/Memoji.png" alt="Image Name" width="100" height="100">| I'm a Software Development Engineer at Valqari, Chicago, USA </p> |
+| <img src="assets/Memoji.png" alt="Image Name" width="140" height="140">| I'm a Software Development Engineer at Valqari, Chicago, USA </p> |
 
 [![valqari](https://svg.bookmark.style/api?url=https://www.valqari.com/&mode=dark&style=horizontal)](https://www.valqari.com)
 
