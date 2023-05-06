@@ -1,10 +1,13 @@
-# Hello, I'm Ivan Rulik
+# ![](assets/wave_hand.gif) Hello, I'm Ivan Rulik 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-rulik-76177594/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=oSAFv28AAAAJ&hl=en)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCRcGWiSHqw3B8-sZ5_PTT5Q)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/ivanrulik)
 
-I'm a Software Development Engineer at Valqari, Chicago, USA </p>
+| | |
+| --- | --- |
+| <img src="assets/memoji.png" alt="Image Name" width="100" height="100">| I'm a Software Development Engineer at Valqari, Chicago, USA </p> |
+
 [![valqari](https://svg.bookmark.style/api?url=https://www.valqari.com/&mode=dark&style=horizontal)](https://www.valqari.com)
 
 ## Background
@@ -16,7 +19,6 @@ I'm a Software Development Engineer at Valqari, Chicago, USA </p>
 ![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Cpp Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Arduino Badge](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Cpp Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Swift Badge](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 ## Technologies and Frameworks
@@ -28,7 +30,7 @@ I'm a Software Development Engineer at Valqari, Chicago, USA </p>
 ## Stats
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivanrulik&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanrulik&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanrulik&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 ## Previous Experience and Projects
