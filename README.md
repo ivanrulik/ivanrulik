@@ -37,7 +37,7 @@
 - Augmented reality app based on Vuforia and Unity for Android and iOS
 - Windows app to visualize electromagnetic signals from Arduino devices with data logging capabilities
 - Wheeled Mobile Robot based on Robot Operating System (ROS) and Raspberry Pi
-- Matlab app to simulate and design electromagnetic circuits (Bachelor's Thesis)
+- Matlab app to design and simulate electromagnetic circuits (Bachelor's Thesis)
 - Python app to control 5 and 6 Degrees of freedom robotic arm using:
     - Keyboard
     - Regular Joystick
