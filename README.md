@@ -1,12 +1,16 @@
 # ![](assets/wave_hand.gif) Hello, I'm Ivan Rulik 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-rulik-76177594/)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=oSAFv28AAAAJ&hl=en)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Ivan-Rulik)
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCRcGWiSHqw3B8-sZ5_PTT5Q)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/ivanrulik)
 
-| | |
-| --- | --- |
-| <img src="assets/Memoji.png" alt="Image Name" width="140" height="140">| I'm a Software Development Engineer at Valqari, Chicago, USA </p> |
+<table style="border-collapse: collapse;">
+  <tr>
+    <td style="border: none;"><img src="assets/Memoji.png" alt="Image Name" style="width: 150px;"></td>
+    <td style="border: none;">I'm a Software Development Engineer at Valqari, Chicago, USA</td>
+  </tr>
+</table>
 
 [![valqari](https://svg.bookmark.style/api?url=https://www.valqari.com/&mode=dark&style=horizontal)](https://www.valqari.com)
 
