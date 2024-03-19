@@ -5,13 +5,6 @@
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCRcGWiSHqw3B8-sZ5_PTT5Q)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/ivanrulik)
 
-<table style="border-collapse: collapse;">
-  <tr>
-    <td style="border: none;"><img src="assets/Memoji.png" alt="Image Name" style="width: 150px;"></td>
-    <td style="border: none;">I'm a Software Development Engineer at Valqari, Chicago, USA</td>
-  </tr>
-</table>
-
 [![valqari](https://svg.bookmark.style/api?url=https://www.valqari.com/&mode=dark&style=horizontal)](https://www.valqari.com)
 
 ## Background
