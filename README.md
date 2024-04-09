@@ -5,8 +5,6 @@
 [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCRcGWiSHqw3B8-sZ5_PTT5Q)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://hub.docker.com/u/ivanrulik)
 
-[![valqari](https://svg.bookmark.style/api?url=https://www.valqari.com/&mode=dark&style=horizontal)](https://www.valqari.com)
-
 ## Background
 - Master's degree in Engineering from the University of Wisconsin-Milwaukee, USA
 - Bachelor's degree in Electrical Engineering from the Universidad de los Andes, Colombia
